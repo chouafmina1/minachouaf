@@ -53,7 +53,7 @@
 
 <details open>
   <summary> 
-    Frameworks and Libraries
+    Blockchain
   </summary>
 <a href="https://www.algorand.com/">
   <img alt="Algorand" src="https://img.shields.io/badge/Algorand-00000F?style=for-the-badge&logo=algorand&logoColor=white">
@@ -77,9 +77,7 @@
                 <a href="#">
                     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
                 </a>
-                <a href="#">
-                    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-                </a>
+               
                 <a href="#">
                     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
                 </a>
