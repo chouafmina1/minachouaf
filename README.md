@@ -6,7 +6,9 @@
   
   I am a software engineering student who enjoys technological innovation. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minachouaf&show_icons=true&theme=dracula)
+<p align=center>
+            <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
+  </p>
 
   
 ## 📫 How to reach me: 
