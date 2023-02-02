@@ -70,7 +70,7 @@
 <img src="https://img.shields.io/badge/oracle-%2307405e.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 </details>
-<details align="open"> 
+<details align=open> 
             <summary><b>Software & Tools</b></summary>
             <br/>
             <p align=""> 
@@ -96,7 +96,7 @@
         <h1>📊 Contribution Activity</h1>
         <br>
         <div>
-            <img src="https://github-readme-stats-smoky-sigma.vercel.app/api?username=minachouaf&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=algolia" alt="ab-talbi" width="550" />
+            <img src="https://github-readme-stats-smoky-sigma.vercel.app/api?username=minachouaf&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=algolia" alt="minachouaf" width="550" />
         </div>
         <br>
         <div>
@@ -111,13 +111,6 @@
     <br>
     <br>
 </div>
-
-
-
-
-
-
-  
 <hr/>
 
 
