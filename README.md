@@ -70,7 +70,7 @@
 <img src="https://img.shields.io/badge/oracle-%2307405e.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 </details>
-<details align="" open> 
+<details align="open"> 
             <summary><b>Software & Tools</b></summary>
             <br/>
             <p align=""> 
